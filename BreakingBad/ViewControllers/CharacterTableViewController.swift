@@ -48,7 +48,6 @@ extension CharacterTableViewController {
             }
             
         }.resume()
-        
     }
     
     // MARK: - Navigation
