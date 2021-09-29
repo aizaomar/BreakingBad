@@ -16,7 +16,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="78731674-8065-4851-891D-CD0025320C6B_1_105_c" translatesAutoresizingMaskIntoConstraints="NO" id="zko-pI-x4P">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="2aef85b25c01fc02f5e345bb758840d9" translatesAutoresizingMaskIntoConstraints="NO" id="zko-pI-x4P">
                                 <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                             </imageView>
                         </subviews>
@@ -36,7 +36,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="78731674-8065-4851-891D-CD0025320C6B_1_105_c" width="702" height="1118"/>
+        <image name="2aef85b25c01fc02f5e345bb758840d9" width="662" height="1135"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
