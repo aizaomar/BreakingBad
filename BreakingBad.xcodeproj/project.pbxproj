@@ -68,7 +68,7 @@
 				65C2D4D326FE418000F9EAD0 /* Storyboards */,
 				65C2D4D626FE424300F9EAD0 /* Models */,
 				65C2D4D726FE424B00F9EAD0 /* Services */,
-				65C2D4D526FE422C00F9EAD0 /* Resourses */,
+				65C2D4D526FE422C00F9EAD0 /* Resources */,
 				65C2D4D426FE41D000F9EAD0 /* App */,
 			);
 			path = BreakingBad;
@@ -103,12 +103,12 @@
 			path = App;
 			sourceTree = "<group>";
 		};
-		65C2D4D526FE422C00F9EAD0 /* Resourses */ = {
+		65C2D4D526FE422C00F9EAD0 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
 				65C2D4C726FE413900F9EAD0 /* Assets.xcassets */,
 			);
-			path = Resourses;
+			path = Resources;
 			sourceTree = "<group>";
 		};
 		65C2D4D626FE424300F9EAD0 /* Models */ = {
